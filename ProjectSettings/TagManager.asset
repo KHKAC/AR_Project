@@ -7,6 +7,9 @@ TagManager:
   - NormalGlass
   - Monocle
   - MaskGlass
+  - Red
+  - Green
+  - Blue
   layers:
   - Default
   - TransparentFX
